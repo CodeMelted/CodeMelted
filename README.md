@@ -15,33 +15,10 @@ Full stack software engineer specializing in cross-platform application developm
 
 # GITHUB WORK
 
-<table style="width: 100%">
-<tr>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dark)](https://github.com/CodeMelted/github-readme-stats) 
-
-</td>
-<td>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=CodeMelted&show_icons=true&theme=dark)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=xp-libs&theme=dark)](https://github.com/CodeMelted/xp-libs)
-
-</td>
-<td>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=pwa-lib&theme=dark)](https://github.com/CodeMelted/pwa-lib)
-
-</td>
-</tr>
-</table>
+<label></label> | <label></label>
+--- | ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dark)](https://github.com/CodeMelted/github-readme-stats) | ![github stats](https://github-readme-stats.vercel.app/api?username=CodeMelted&show_icons=true&theme=dark) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=xp-libs&theme=dark)](https://github.com/CodeMelted/xp-libs) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=pwa-lib&theme=dark)](https://github.com/CodeMelted/pwa-lib)
 
 # INDUSTRY EXPERIENCE
 
