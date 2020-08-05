@@ -16,6 +16,7 @@ Full stack software engineer specializing in cross-platform application developm
 # GITHUB WORK
 
 <table style="width: 100%">
+<tr>
 <td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dark)](https://github.com/CodeMelted/github-readme-stats) 
@@ -27,6 +28,7 @@ Full stack software engineer specializing in cross-platform application developm
 
 </td>
 </tr>
+
 <tr>
 <td>
 
