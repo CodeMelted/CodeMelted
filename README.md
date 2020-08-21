@@ -157,4 +157,4 @@ Human Resources | ExtJS web site with a Java EE / MySQL backend for managing emp
 - Network Administration for the Solaris 9 OS
 - Applied Computer Technologies
 
-<script type="module" src="https://codemelted.com/projects/website/js/navigation-main.js"></script>
+<script type="module" src="https://codemelted.com/projects/website/js/main-navigation.js"></script>
