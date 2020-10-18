@@ -18,7 +18,7 @@ Full stack software engineer specializing in cross-platform application developm
 <label></label> | <label></label>
 --- | ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula) | ![github stats](https://github-readme-stats.vercel.app/api?username=CodeMelted&show_icons=true&theme=dracula) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=pwa-lib&theme=dracula)](https://github.com/CodeMelted/pwa-lib) | <label></label>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=projects&theme=dracula)](https://github.com/CodeMelted/projects) | <label></label>
 
 Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).  He is the creator of the API that produces the cards.
 
