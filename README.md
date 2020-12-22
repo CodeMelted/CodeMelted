@@ -17,8 +17,7 @@ Full stack software engineer specializing in cross-platform application developm
 
 <label></label> | <label></label>
 --- | ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula) | ![github stats](https://github-readme-stats.vercel.app/api?username=CodeMelted&show_icons=true&theme=dracula) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=xplat-svcs&theme=dracula)](https://github.com/CodeMelted/xplat-svcs) | <label></label>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=xplat-svcs&theme=dracula)](https://github.com/CodeMelted/xplat-svcs)
 
 Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).  He is the creator of the API that produces the cards.
 
@@ -137,8 +136,6 @@ Human Resources | ExtJS web site with a Java EE / MySQL backend for managing emp
 
 **Peer Recognition Award (June 2001):** Second quarter peer recognition award
 
-<p style="page-break-before: always">&nbsp;</p>
-
 # EDUCATION
 
 ## College
@@ -156,5 +153,3 @@ Human Resources | ExtJS web site with a Java EE / MySQL backend for managing emp
 - Combined Test Force CC ICS2 Test Manager Course for Cheyenne Mountain Complex
 - Network Administration for the Solaris 9 OS
 - Applied Computer Technologies
-
-<script type="module" src="https://codemelted.com/navigation/index.js"></script>
