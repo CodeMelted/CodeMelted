@@ -15,9 +15,11 @@ Full stack software engineer specializing in cross-platform application developm
 
 # GITHUB WORK
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=codemelted.dev&theme=dracula)](https://github.com/CodeMelted/codemelted.dev)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=codemelted.dev&theme=dracula)](https://github.com/CodeMelted/codemelted.dev)
 
- Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).  He is the creator of the API that produces the cards.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS)  
+
+Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).  He is the creator of the API that produces the cards.
 
 # INDUSTRY EXPERIENCE
 
