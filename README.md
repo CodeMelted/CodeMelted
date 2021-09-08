@@ -15,12 +15,7 @@ Full stack software engineer specializing in cross-platform application developm
 
 # GITHUB WORK
 
-My GitHub work consists of just three repositories.  One reflects this rendered file.  The second hosts my [personal website](https://codemelted.com).  The final is my public facing [Cross Platform Services](https://xplat-svcs.codemelted.com) project who's statistics are reflected below.
-
-<label></label> | <label></label>
---- | ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=xplat-svcs&theme=dracula)](https://github.com/CodeMelted/xplat-svcs)
-- ```HTML / CSS not reflected in Most Used Languages as their are many auto generated files from releases```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=codemelted.dev&theme=dracula)](https://github.com/CodeMelted/codemelted.dev)
 
  Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).  He is the creator of the API that produces the cards.
 
