@@ -1,4 +1,4 @@
-<h1> <img style='height: 75px;' src='./me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='./icons8-envelope-40.png' /></a> </h1>
+<h1> <img style='height: 75px;' src='https://codemelted.dev/website-nav/images/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='https://codemelted.dev/website-nav/images/icons8-envelope-40.png' /></a> </h1>
 
 Full stack software engineer specializing in cross-platform application development. Development experiences include working with communication wide area network (WAN) architectures, communication with external devices via network and serial comm, desktop applications with cross platform UI/UX requirements, and dedicated custom server services.  With this experience also comes the ability to fully document the software lifecycle from requirements / design, test plans, test cases, and end user documentation. 
 
@@ -153,5 +153,3 @@ Human Resources | ExtJS web site with a Java EE / MySQL backend for managing emp
 - Combined Test Force CC ICS2 Test Manager Course for Cheyenne Mountain Complex
 - Network Administration for the Solaris 9 OS
 - Applied Computer Technologies
-
-<script type='module' src='https://codemelted.dev/website-nav/index.js'></script>
