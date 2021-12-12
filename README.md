@@ -1,8 +1,12 @@
 <h1> <img style='height: 75px;' src='https://codemelted.dev/website-nav/images/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='https://codemelted.dev/website-nav/images/icons8-envelope-40.png' /></a> </h1>
 
+<a aria-label="Follow @codemelted on GitHub" class="github-button" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-show-count="false" data-size="large" href="https://github.com/codemelted">Follow @codemelted</a>
+
+<script async="" defer="" src="https://buttons.github.io/buttons.js"></script>
+
 Full stack software engineer specializing in cross-platform application development. Development experiences include working with communication wide area network (WAN) architectures, communication with external devices via network and serial comm, desktop applications with cross platform UI/UX requirements, and dedicated custom server services.  With this experience also comes the ability to fully document the software lifecycle from requirements / design, test plans, test cases, and end user documentation. 
 
-<h1> Table of Contents </h1>
+<h2> Table of Contents </h2>
 
 - [GITHUB WORK](#github-work)
 - [INDUSTRY EXPERIENCE](#industry-experience)
@@ -13,7 +17,7 @@ Full stack software engineer specializing in cross-platform application developm
   - [College](#college)
   - [Formal Training](#formal-training)
 
-# GITHUB WORK
+## GITHUB WORK
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=codemelted.dev&theme=dracula)](https://github.com/CodeMelted/codemelted.dev)
 
@@ -21,9 +25,9 @@ Full stack software engineer specializing in cross-platform application developm
 
 Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).  He is the creator of the API that produces the cards.
 
-# INDUSTRY EXPERIENCE
+## INDUSTRY EXPERIENCE
 
-## Technologies
+### Technologies
 
 **Applications:** Android Studio, Github Desktop, MS Project, NetBeans, Notepad++, Projucer, QT Creator, Visual Studio Code, Visual Studio 2013 / 2015, XCode
 
@@ -55,7 +59,7 @@ Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats
 
 **Web Technologies:** HTML5, CSS3, JavaScript ES5 / ES6, Web Browser APIs Geolocation / local and session storage / web workers / web socket / AJAX, ExtJS framework, jQuery framework, PHP 
 
-## Projects
+### Projects
 
 **Docker Server Suite:** Performed systems engineering for a project.  The system is a suite of Docker container images (some custom builds, some from Docker repository) joined with a Python flask gateway application.  Users can completely access services via a custom web application.  Part of the systems engineering was a refactor of the installation process to allow for upgrading aspects of the system instead of a full installation.  Other parts include identifying user stories to bring this to a deliverable project hosting within the cloud or on physical hardware along with establishing the existing design and creating a coding standard for scripts.  Scripts to perform other tasks were written within Python and bash with a set coding standard for those.
 
@@ -108,7 +112,7 @@ Human Resources | ExtJS web site with a Java EE / MySQL backend for managing emp
 
 **Large Processing Station (LPS) / Mobile Ground System (MGS) Missile Warning Systems:** Programmer Analyst responsible for the analysis/implementation/testing of problem reports. Accomplishment of these tasks included the development of requirements/design models of the problems, implementation of the code changes, updates to user documentation, and development of unit/system test procedures. Languages utilized were Fortran 77, Assembler 370, JCL, C, and textual dataset updates
 
-## Awards
+### Awards
 
 **Special Recognition Award (April 2014):** In recognition and appreciation of your exceptional performance in developing and delivering the GCNM 12V-1/14-1 version
 
@@ -136,15 +140,15 @@ Human Resources | ExtJS web site with a Java EE / MySQL backend for managing emp
 
 **Peer Recognition Award (June 2001):** Second quarter peer recognition award
 
-# EDUCATION
+## EDUCATION
 
-## College
+### College
 
 - MS Computer Science (SW Engineering)
 - BS Computer Information Systems Management
 - AAS Computer Programming
 
-## Formal Training
+### Formal Training
 
 - AFSPACE USSTRATCOM NORAD SCTP Overview Course
 - Space Control Missile Defense-Missile Warning Test Management
