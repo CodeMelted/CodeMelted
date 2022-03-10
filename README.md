@@ -6,7 +6,7 @@ Full stack software engineer specializing in cross-platform application developm
 
 **GITHUB REPO:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=melt-the-codev&theme=dracula)](https://github.com/CodeMelted/melt-the-code)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=melt-the-code&theme=dracula)](https://github.com/CodeMelted/melt-the-code)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS)  
 
