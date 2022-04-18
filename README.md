@@ -4,7 +4,7 @@ Welcome to my GitHub repo page.  Here you will find my main repository for creat
 
 **GITHUB REPO:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=xplat-modules&theme=dracula)](https://github.com/CodeMelted/xplat-modules)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=melt-the-code-xplat-modules&theme=dracula)](https://code.codemelted.dev/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS)  
 
