@@ -1,4 +1,4 @@
-<h1> <img style='height: 75px;' src='https://code.codemelted.dev/website-nav/images/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='https://code.codemelted.dev/website-nav/images/icons8-envelope-40.png' /></a> </h1>
+<h1> <img style='height: 75px;' src='https://codemelted.dev/images/icons/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='https://codemelted.dev/images/icons/icons8-envelope-40.png' /></a> </h1>
 
 Full stack software engineer specializing in cross-platform application development. Development experiences include working with communication wide area network (WAN) architectures, communication with external devices via network and serial comm, desktop applications with cross platform UI/UX requirements, and dedicated custom server services.  With this experience also comes the ability to fully document the software lifecycle from requirements / design, test plans, test cases, and end user documentation. 
 
@@ -15,7 +15,9 @@ Full stack software engineer specializing in cross-platform application developm
 
 ## GITHUB WORK
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=melt-the-code-xplat-modules&theme=dracula)](https://code.codemelted.dev/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=codemelted.com&theme=dracula)](https://www.codemelted.com/)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=codemelted.dev&theme=dracula)](https://codemelted.dev/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS)  
 
