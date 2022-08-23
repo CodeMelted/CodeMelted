@@ -1,6 +1,6 @@
-<h1> <img style='height: 75px;' src='https://codemelted.dev/images/icons/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='https://codemelted.dev/images/icons/icons8-envelope-40.png' /></a> </h1>
+<h1> <img style='height: 75px;' src='https://codemelted.com/images/icons/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='https://codemelted.com/images/icons/icons8-envelope-40.png' /></a> </h1>
 
-Full stack software engineer specializing in cross-platform application development. Development experiences include working with communication wide area network (WAN) architectures, communication with external devices via network and serial comm, desktop applications with cross platform UI/UX requirements, and dedicated custom server services.  With this experience also comes the ability to fully document the software lifecycle from requirements / design, test plans, test cases, and end user documentation. 
+Full stack software engineer specializing in cross-platform application development. Development experiences include working with communication wide area network (WAN) architectures, communication with external devices via network and serial comm, desktop applications with cross platform UI/UX requirements, and dedicated custom server services.  With this experience also comes the ability to fully document the software lifecycle from requirements / design, test plans, test cases, and end user documentation.
 
 <h2> Table of Contents </h2>
 
@@ -15,11 +15,9 @@ Full stack software engineer specializing in cross-platform application developm
 
 ## GITHUB WORK
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=codemelted.com&theme=dracula)](https://www.codemelted.com/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=xplat-modules&theme=dracula)](https://github.com/CodeMelted/xplat-modules)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=codemelted.dev&theme=dracula)](https://codemelted.dev/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS)
 
 Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).  He is the creator of the API that produces the cards.
 
@@ -55,7 +53,7 @@ Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats
 
 **Testing:** Bullseye, CppUnit, Google Test / MOC, Mocha / Chai, QTest, Junit, writing simulators, verification & validation with functional / system level test development, writing test plans / reports, requirements verification matrix tracking, performance validation, interface validation
 
-**Web Technologies:** HTML5, CSS3, JavaScript ES5 / ES6, Web Browser APIs Geolocation / local and session storage / web workers / web socket / AJAX, ExtJS framework, jQuery framework, PHP 
+**Web Technologies:** HTML5, CSS3, JavaScript ES5 / ES6, Web Browser APIs Geolocation / local and session storage / web workers / web socket / AJAX, ExtJS framework, jQuery framework, PHP
 
 ### Projects
 
