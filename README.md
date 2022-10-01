@@ -15,11 +15,10 @@ Full stack software engineer specializing in cross-platform application developm
 
 ## GITHUB WORK
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&repo=xplat-modules&theme=dracula)](https://github.com/CodeMelted/xplat-modules)
+<p><a href="https://github.com/CodeMelted/xplat-modules"><img style="width: 300px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&amp;repo=xplat-modules&amp;theme=dracula" alt="ReadMe Card"></a></p>
+<p><img style="width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&amp;layout=compact&amp;theme=dracula&amp;hide=HTML,CSS" alt="Top Langs"></p>
+<p>Many thanks to <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>.  He is the creator of the API that produces the cards.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&layout=compact&theme=dracula&hide=HTML,CSS)
-
-Many thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats).  He is the creator of the API that produces the cards.
 
 ## INDUSTRY EXPERIENCE
 
