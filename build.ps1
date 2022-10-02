@@ -29,16 +29,20 @@
     <title>Melt the Code - GitHub</title>
     <meta charset="UTF-8">
     <meta name="author" content="Mark Shaffer">
-    <meta name="description" content="Follows my personal GitHub work on https://codemelted.com website.">
+    <meta name="description" content="Follows my personal GitHub work on https://blog.codemelted.com website.">
     <meta name="keywords" content="Melt the Code, codemelted, GitHub, software engineering">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="monetization" content="$ilp.uphold.com/q94gJPq8PFF4">
-    <link rel="icon" type="image/x-icon" href="../favicon.png">
-    <link rel="stylesheet" href="../css/scrollbars.css">
-    <link rel="stylesheet" href="../css/hacker-theme.css">
-    <script src="../js/iframe_checker.js" defer></script>
-    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="CodeMelted" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="10" data-y_margin="10"></script>
+    <link rel="icon" type="image/x-icon" href="./favicon.png">
+    <script src="./gh-page-nav/index.js" defer></script>
 </head><body><div class="content-main">
+
+    <div class="cm-page-options">
+        <button id="btnSupport"><img src="https://blog.codemelted.com/images/icons/bmc-button.png" /></button>
+        <button id="btnOpen"><img src="https://blog.codemelted.com/images/icons/icons8-linking-100.png" /></button>
+        <button id="btnShare"><img src="https://blog.codemelted.com/images/icons/icons8-share-60.png" /></button>
+        <button id="btnPrint">🖨️</button>
+    </div>
 
     CONTENT
 
