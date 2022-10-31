@@ -178,8 +178,8 @@ const HTML_TEMPLATE = `
 const HOME_PAGE = "https://socials.codemelted.com";
 const PORTAL_PAGE = "https://codemelted.com";
 const URL_PAGE = {
-    "Instagram" : `${HOME_PAGE}/socials/instagram.html`,
-    "Twitter"   : `${HOME_PAGE}/socials/twitter.html`
+    "Instagram" : `${HOME_PAGE}/instagram.html`,
+    "Twitter"   : `${HOME_PAGE}/twitter.html`
 };
 
 /**
