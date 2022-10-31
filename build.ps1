@@ -29,20 +29,16 @@
     <title>Melt the Code - GitHub</title>
     <meta charset="UTF-8">
     <meta name="author" content="Mark Shaffer">
-    <meta name="description" content="Follows my personal GitHub work on https://blog.codemelted.com website.">
+    <meta name="description" content="Follows my personal GitHub work on https://socials.codemelted.com website.">
     <meta name="keywords" content="Melt the Code, codemelted, GitHub, software engineering">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="monetization" content="$ilp.uphold.com/q94gJPq8PFF4">
     <link rel="icon" type="image/x-icon" href="./favicon.png">
     <script src="./gh-page-nav/index.js" defer></script>
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head><body><div class="content-main">
 
-    <div class="cm-page-options">
-        <button id="btnSupport"><img src="https://blog.codemelted.com/images/icons/bmc-button.png" /></button>
-        <button id="btnOpen"><img src="https://blog.codemelted.com/images/icons/icons8-linking-100.png" /></button>
-        <button id="btnShare"><img src="https://blog.codemelted.com/images/icons/icons8-share-60.png" /></button>
-        <button id="btnPrint">🖨️</button>
-    </div>
+    <a class="github-button" href="https://github.com/codemelted" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @codemelted on GitHub">Follow @codemelted</a>
 
     CONTENT
 
@@ -55,22 +51,14 @@ function build {
     # -------------------------------------------------------------------------
     [string]$PROJ_NAME = "melt_the_code GitHub Generator"
     [string]$SCRIPT_PATH = $PSScriptRoot
-    [string]$DIST_PATH = $SCRIPT_PATH + "/_dist"
 
     # Put out our statement
     Write-Host $PROJ_NAME
     Write-Host
 
-    # Remove and create our _dist directory
-    Write-Host "MESSAGE: Now creating the _dist directory"
-    Remove-Item -Path $DIST_PATH -Force -Recurse -ErrorAction SilentlyContinue
-    New-Item -Path $DIST_PATH -ItemType Directory
-
-    # Build out static README.html
-    Write-Host "MESSAGE: Now transforming all src/md files to html"
     $mdFile = ConvertFrom-Markdown -Path "$SCRIPT_PATH/README.md"
     $htmlData = $HTML_TEMPLATE.Replace("CONTENT", $mdFile.Html)
-    $HtmlData | Out-File -Encoding utf8 "$DIST_PATH/github.html"
+    $HtmlData | Out-File -Encoding utf8 "$SCRIPT_PATH/index.html"
 
     Write-Host
     Write-Host "MESSAGE: $PROJ_NAME processing completed."
