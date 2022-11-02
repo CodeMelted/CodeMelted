@@ -4053,6 +4053,7 @@ margin-left:40px
       const isHeaderAndFooterShown = !isEmbedded;
       if (!isHeaderAndFooterShown) {
           document.getElementById("divFixedHeader").style.display = "none";
+          document.getElementsByClassName("search")[0].style.display = "none";
           document.body.style.marginTop = "0px";
       }
 
