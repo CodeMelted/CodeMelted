@@ -3209,7 +3209,7 @@ margin-left:40px
                       <b:widget-setting name='showShareButtons'>true</b:widget-setting>
                       <b:widget-setting name='showCommentLink'>true</b:widget-setting>
                       <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
-                      <b:widget-setting name='showAuthor'>false</b:widget-setting>
+                      <b:widget-setting name='showAuthor'>true</b:widget-setting>
                       <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
                       <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
                       <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
@@ -3221,10 +3221,10 @@ margin-left:40px
                       <b:widget-setting name='showLocation'>false</b:widget-setting>
                       <b:widget-setting name='postLabelsLabel'/>
                       <b:widget-setting name='showTimestamp'>true</b:widget-setting>
-                      <b:widget-setting name='postsPerAd'>3</b:widget-setting>
+                      <b:widget-setting name='postsPerAd'>1</b:widget-setting>
                       <b:widget-setting name='showBacklinks'>false</b:widget-setting>
                       <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
-                      <b:widget-setting name='showInlineAds'>true</b:widget-setting>
+                      <b:widget-setting name='showInlineAds'>false</b:widget-setting>
                       <b:widget-setting name='showReactions'>false</b:widget-setting>
                     </b:widget-settings>
                     <b:includable id='main'>
@@ -4030,6 +4030,10 @@ margin-left:40px
         color: #757575;
       }
 
+      .post-author-label {
+        color: #757575;
+      }
+
       /* Handle nice printing on the page */
       @media print {
         .cm-fixed-header {
@@ -4070,6 +4074,12 @@ margin-left:40px
           `menubar=no, scrollbars=no, resizable=yes, copyhistory=no, ` +
           `width=${w}, height=${h}, top=${top}, left=${left}`
         );
+      }
+
+      // Remove link away on author
+      const collection = document.getElementsByClassName(&quot;g-profile&quot;);
+      for (let x = 0; x &lt; collection.length; x++) {
+        collection[x].href = &quot;#&quot;;
       }
 
       // Page navigation

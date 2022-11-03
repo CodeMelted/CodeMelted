@@ -87,7 +87,7 @@ const HTML_TEMPLATE = `
     .cm-logo {
         display: block;
         height: 35px;
-        margin-top: 8px;
+        padding 8 4 8 12
         margin-left: 15px;
     }
     .cm-logo:hover {
