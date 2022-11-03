@@ -88,7 +88,7 @@ const HTML_TEMPLATE = `
         display: block;
         height: 35px;
         margin-top: 12px;
-        margin-left: 20px;
+        margin-left: 23px;
     }
     .cm-logo:hover {
         cursor: pointer;
