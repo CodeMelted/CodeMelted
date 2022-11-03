@@ -34,7 +34,7 @@
       default="$(robotoNormal15)"  value="15px Roboto, sans-serif"/>
   <Variable name="body.text.color" description="Color"
       type="color"
-      default="#757575"  value="#757575"/>
+      default="#b5e853"  value="#b5e853"/>
 </Group>
 
 <Group description="Backgrounds">
@@ -85,7 +85,7 @@
   <Variable name="header.icons.color"
       description="Background icons color"
       type="color"
-      default="#fff"  value="#424242"/>
+      default="#b5e853"  value="#b5e853"/>
 </Group>
 
 <Group description="Tabs text" selector="div.widget.PageList">
@@ -114,7 +114,7 @@
 <Group description="Posts" selector="div.widget.Blog">
   <Variable name="posts.title.color" description="Post title color"
       type="color"
-      default="#424242"  value="#424242"/>
+      default="#b5e853"  value="#b5e853"/>
   <Variable name="posts.title.font" description="Post title font"
       type="font"
       default="$(robotoBold22)"  value="bold 22px Roboto, sans-serif"/>
@@ -126,7 +126,7 @@
       default="$(body.text.font)"  value="15px Roboto, sans-serif"/>
   <Variable name="posts.text.color" description="Post text color"
       type="color"
-      default="$(body.text.color)"  value="#757575"/>
+      default="#ffffff"  value="#ffffff"/>
   <Variable name="posts.byline.color" description="Post byline color"
       type="color"
       default="rgba(0, 0, 0, 0.54)"  value="rgba(0, 0, 0, 0.54)"/>
@@ -139,7 +139,7 @@
   <Variable name="posts.icons.color"
       description="Post icons color"
       type="color"
-      default="#707070"  value="#707070"/>
+      default="#b5e853"  value="#b5e853"/>
   <Variable name="posts.boxshadow.color" description="Post box shadow color"
       type="color"
       default="rgba(0, 0, 0, 0)"  value="rgba(60, 64, 67, 0.30)"/>
@@ -148,27 +148,27 @@
 <Group description="Search">
   <Variable name="search.input.color" description="Input color"
       type="color"
-      default="$(blog.title.color)"  value="#424242"/>
+      default="#b5e853"  value="#b5e853"/>
   <Variable name="search.input.font" description="Input font"
       type="font"
       default="$(robotoNormal16)"  value="16px Roboto, sans-serif"/>
   <Variable name="search.placeholder.color" description="Placeholder text color"
       type="color"
-      default="$(blog.title.color)"  value="#424242"/>
+      default="#b5e853"  value="#b5e853"/>
 </Group>
 
 <Group description="Sharing">
   <Variable name="sharing.background.color"
       description="Sharing background color"
       type="color"
-      default="$(posts.background.color)"  value="#ffffff"/>
+      default="#708090"  value="#708090"/>
   <Variable name="sharing.text.color" description="Sharing text color"
       type="color"
-      default="$(posts.title.color)"  value="#424242"/>
+      default="$(posts.title.color)"  value="#000000"/>
   <Variable name="sharing.icons.color"
       description="Sharing icons color"
       type="color"
-      default="$(sharing.text.color)"  value="#424242"/>
+      default="#000000"  value="#000000"/>
 </Group>
 
 <Group description="Popular posts" selector="div.widget.PopularPosts">
@@ -233,7 +233,7 @@
   <Variable name="sidebar.icons.color"
       description="Sidebar icons color"
       type="color"
-      default="#707070"  value="#707070"/>
+      default="#b5e853"  value="#b5e853"/>
 </Group>
 
 <Group description="Author profile" selector='.widget.Profile'>
@@ -252,20 +252,20 @@
   <Variable name="labels.text.color"
       description="Label text color"
       type="color"
-      default="$(body.link.color)"  value="#2196f3"/>
+      default="#000000"  value="#000000"/>
   <Variable name="labels.background.color"
       description="Label background color"
       type="color"
       red="$(labels.text.color.red)"
       green="$(labels.text.color.green)"
       blue="$(labels.text.color.blue)"
-      default="#006400"  value="#006400"/>
+      default="#b5e853"  value="#b5e853"/>
 </Group>
 
 <Group description="Attribution" selector=".widget.Attribution">
   <Variable name="attribution.text.color" description="Attribution text color"
       type="color"
-      default="$(body.text.color)"  value="#757575"/>
+      default="#b5e853"  value="#b5e853"/>
   <Variable name="attribution.link.color" description="Attribution link color"
       type="color"
       default="$(body.link.color)"  value="#2196f3"/>
@@ -2916,7 +2916,7 @@ margin-left:40px
 
                 <div class='blog-name container'>
                   <b:section class='container' id='header' name='Header' showaddelement='false'>
-                    <b:widget id='Header1' locked='true' title='Melt the Code (Header)' type='Header' visible='true'>
+                    <b:widget id='Header1' locked='true' title='Melt the Code (Header)' type='Header' version='2' visible='true'>
                       <b:widget-settings>
                         <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEiafkzQIir8TdI1WRK0AtolVWoikvarJAEEIPo_FxisoRF4HOfNK8s7CTDvyR32cvhCMGzaYffllB_kQSx6lIfSAw8gCu4-OOMLEGYWFAX46Ll_3iqPGVi5RZf2wwQ-IoPmYrTTKM8V0A0wcxtNSUxsmrduEr-YnW497amsGUMTvmFu9iu-5VoxHH9u=s593</b:widget-setting>
                         <b:widget-setting name='displayHeight'>99</b:widget-setting>
@@ -2932,9 +2932,9 @@ margin-left:40px
       <b:include cond='data:imagePlacement not in {&quot;REPLACE&quot;, &quot;BEFORE_DESCRIPTION&quot;}' name='title'/>
       <b:include cond='data:imagePlacement != &quot;REPLACE&quot;' name='description'/>
     </div>
-    <div class="cm-page-options">
-      <button id="btnSupport"><img src="https://socials.codemelted.com/gh-page-nav/icons/bmc-button.png" /></button>
-      <button id="btnPrint"><img src="https://socials.codemelted.com/gh-page-nav/icons/icons8-print-96.png" /></button>
+    <div class='cm-page-options'>
+      <button id='btnSupport'><img src='https://socials.codemelted.com/gh-page-nav/icons/bmc-button.png'/></button>
+      <button id='btnPrint'><img src='https://socials.codemelted.com/gh-page-nav/icons/icons8-print-96.png'/></button>
     </div>
     <b:include cond='data:imagePlacement == &quot;BEHIND&quot;' name='behindImageStyle'/>
   </b:includable>
@@ -3218,7 +3218,7 @@ margin-left:40px
                       <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
                       <b:widget-setting name='style.layout'>1x1</b:widget-setting>
                       <b:widget-setting name='showLabels'>true</b:widget-setting>
-                      <b:widget-setting name='showLocation'>true</b:widget-setting>
+                      <b:widget-setting name='showLocation'>false</b:widget-setting>
                       <b:widget-setting name='postLabelsLabel'/>
                       <b:widget-setting name='showTimestamp'>true</b:widget-setting>
                       <b:widget-setting name='postsPerAd'>3</b:widget-setting>
@@ -3648,6 +3648,48 @@ margin-left:40px
   </section>
 </b:includable>
                   </b:widget>
+                  <b:widget id='HTML1' locked='false' title='Disqus' type='HTML' visible='true'>
+                    <b:widget-settings>
+                      <b:widget-setting name='content'><![CDATA[<!-- Disqus Widget -->]]></b:widget-setting>
+                    </b:widget-settings>
+                    <b:includable id='main'>
+            <script type='text/javascript'>
+                var disqus_shortname = &#39;codemelted&#39;;
+                var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
+                if (!disqus_blogger_current_url.length) {
+                    disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
+                }
+                var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
+                var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
+            </script>
+            <b:if cond='data:blog.pageType == &quot;item&quot;'>
+                <style type='text/css'>
+                    #comments {display:none;}
+                </style>
+                <script type='text/javascript'>
+                    (function() {
+                        var bloggerjs = document.createElement(&#39;script&#39;);
+                        bloggerjs.type = &#39;text/javascript&#39;;
+                        bloggerjs.async = true;
+                        bloggerjs.src = &#39;//&#39;+disqus_shortname+&#39;.disqus.com/blogger_item.js&#39;;
+                        (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+                    })();
+                </script>
+            </b:if>
+                <style type='text/css'>
+                    .post-comment-link { visibility: hidden; }
+                </style>
+                <script type='text/javascript'>
+                (function() {
+                    var bloggerjs = document.createElement(&#39;script&#39;);
+                    bloggerjs.type = &#39;text/javascript&#39;;
+                    bloggerjs.async = true;
+                    bloggerjs.src = &#39;//&#39;+disqus_shortname+&#39;.disqus.com/blogger_index.js&#39;;
+                    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+                })();
+                </script>
+        </b:includable>
+                  </b:widget>
                   <b:widget cond='data:view.isSingleItem and data:posts any (p =&gt; p.id != data:view.postId)' id='PopularPosts1' locked='true' title='' type='PopularPosts' visible='false'>
                     <b:widget-settings>
                       <b:widget-setting name='numItemsToShow'>3</b:widget-setting>
@@ -3893,9 +3935,9 @@ margin-left:40px
 
     <b:template-script async='true' name='strm' version='1.0.0'/>
 
-    <div id="divFixedHeader" class="cm-fixed-header">
-        <img id="imgLogo" alt="logo" class="cm-logo" src="https://socials.codemelted.com/gh-page-nav/logos/logo-593x100.png" />
-        <button id="btnWeb"><img style="height: 35px;" src="https://socials.codemelted.com/gh-page-nav/icons/icons8-website-48.png" /></button>
+    <div class='cm-fixed-header' id='divFixedHeader'>
+        <img alt='logo' class='cm-logo' id='imgLogo' src='https://socials.codemelted.com/gh-page-nav/logos/logo-593x100.png'/>
+        <button id='btnWeb'><img src='https://socials.codemelted.com/gh-page-nav/icons/icons8-website-48.png' style='height: 35px;'/></button>
     </div>
 
     <style>
@@ -3977,7 +4019,7 @@ margin-left:40px
       }
 
       .page_body {
-        background-image: url("https://socials.codemelted.com/gh-page-nav/bkg.png");
+        background-image: url(&quot;https://socials.codemelted.com/gh-page-nav/bkg.png&quot;);
       }
 
       .cloud-label-widget-content {
@@ -4031,64 +4073,64 @@ margin-left:40px
       }
 
       // Page navigation
-      const HOME_PAGE = "https://blog.codemelted.com";
-      const PORTAL_PAGE = "https://codemelted.com";
+      const HOME_PAGE = &quot;https://blog.codemelted.com&quot;;
+      const PORTAL_PAGE = &quot;https://codemelted.com&quot;;
 
       // Parse our URLSearchParams to determine how we are configuring this
       // view.
       let href = window.location.href;
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
-      const isEmbedded = urlParams.has("isEmbedded")
-          ? urlParams.get("isEmbedded") === "true" ? true : false
+      const isEmbedded = urlParams.has(&quot;isEmbedded&quot;)
+          ? urlParams.get(&quot;isEmbedded&quot;) === &quot;true&quot; ? true : false
           : window.location !== window.parent.location
               ? true
               : false;
 
-      const popupAction = urlParams.has("action")
-          ? urlParams.get("action")
+      const popupAction = urlParams.has(&quot;action&quot;)
+          ? urlParams.get(&quot;action&quot;)
           : undefined;
 
       // Setup whether our header / footer are displayed
       const isHeaderAndFooterShown = !isEmbedded;
       if (!isHeaderAndFooterShown) {
-          document.getElementById("divFixedHeader").style.display = "none";
-          document.getElementsByClassName("search")[0].style.display = "none";
-          document.body.style.marginTop = "0px";
+          document.getElementById(&quot;divFixedHeader&quot;).style.display = &quot;none&quot;;
+          document.getElementsByClassName(&quot;search&quot;)[0].style.display = &quot;none&quot;;
+          document.body.style.marginTop = &quot;0px&quot;;
       }
 
       // Hide the actions if a popup action is occurring.
       if (popupAction !== undefined) {
-        document.getElementsByClassName("cm-page-options")[0]
-            .style.display = "none";
+        document.getElementsByClassName(&quot;cm-page-options&quot;)[0]
+            .style.display = &quot;none&quot;;
       }
 
       // Now assign our button actions, states from above will affect
       // how some of those action are performed.
-      document.getElementById("imgLogo").addEventListener("click", () => {
+      document.getElementById(&quot;imgLogo&quot;).addEventListener(&quot;click&quot;, () =&gt; {
         window.location.href = HOME_PAGE;
       });
 
-      document.getElementById("btnWeb").addEventListener("click", () => {
+      document.getElementById(&quot;btnWeb&quot;).addEventListener(&quot;click&quot;, () =&gt; {
         window.location.href = PORTAL_PAGE;
       });
 
-      document.getElementById("btnSupport").addEventListener("click", () => {
-        popupWindow("https://www.buymeacoffee.com/codemelted",
-            "Buy Me a Coffee", 900, 600);
+      document.getElementById(&quot;btnSupport&quot;).addEventListener(&quot;click&quot;, () =&gt; {
+        popupWindow(&quot;https://www.buymeacoffee.com/codemelted&quot;,
+            &quot;Buy Me a Coffee&quot;, 900, 600);
       });
 
-      document.getElementById("btnPrint").addEventListener("click", () => {
+      document.getElementById(&quot;btnPrint&quot;).addEventListener(&quot;click&quot;, () =&gt; {
         if (isEmbedded) {
-          popupWindow(href.split("?")[0], "Melt the Code - Blog", 800, 500, "print");
+          popupWindow(href.split(&quot;?&quot;)[0], &quot;Melt the Code - Blog&quot;, 800, 500, &quot;print&quot;);
         } else {
           window.print();
         }
       });
 
       // Now determine if we are carrying out any popup actions
-      setTimeout(() => {
-        if (popupAction === "print") {
+      setTimeout(() =&gt; {
+        if (popupAction === &quot;print&quot;) {
           window.print();
           if (!isMobile()) window.close();
         }
