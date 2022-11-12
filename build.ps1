@@ -24,25 +24,9 @@
 # =============================================================================
 
 [string]$HTML_TEMPLATE = @'
-<!DOCTYPE html>
-<html><head>
-    <title>Melt the Code - GitHub</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Mark Shaffer">
-    <meta name="description" content="Follows my personal GitHub work on https://socials.codemelted.com website.">
-    <meta name="keywords" content="Melt the Code, codemelted, GitHub, software engineering">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="monetization" content="$ilp.uphold.com/q94gJPq8PFF4">
-    <link rel="icon" type="image/x-icon" href="./favicon.png">
-    <script src="./gh-page-nav/index.js" defer></script>
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
-</head><body><div class="content-main">
-
     <a class="github-button" href="https://github.com/codemelted" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @codemelted on GitHub">Follow @codemelted</a>
-
     CONTENT
-
-</div></body></html>
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
 '@
 
 function build {
@@ -58,7 +42,7 @@ function build {
 
     $mdFile = ConvertFrom-Markdown -Path "$SCRIPT_PATH/README.md"
     $htmlData = $HTML_TEMPLATE.Replace("CONTENT", $mdFile.Html)
-    $HtmlData | Out-File -Encoding utf8 "$SCRIPT_PATH/index.html"
+    $HtmlData | Out-File -Encoding utf8 "$SCRIPT_PATH/README.html"
 
     Write-Host
     Write-Host "MESSAGE: $PROJ_NAME processing completed."
