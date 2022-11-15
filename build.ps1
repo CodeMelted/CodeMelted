@@ -24,9 +24,9 @@
 # =============================================================================
 
 [string]$HTML_TEMPLATE = @'
-    <a class="github-button" href="https://github.com/codemelted" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @codemelted on GitHub">Follow @codemelted</a>
-    CONTENT
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="https://github.com/codemelted" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @codemelted on GitHub">Follow @codemelted</a>
+CONTENT
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 '@
 
 function build {
@@ -42,7 +42,7 @@ function build {
 
     $mdFile = ConvertFrom-Markdown -Path "$SCRIPT_PATH/README.md"
     $htmlData = $HTML_TEMPLATE.Replace("CONTENT", $mdFile.Html)
-    $HtmlData | Out-File -Encoding utf8 "$SCRIPT_PATH/README.html"
+    $HtmlData | Out-File -Encoding utf8 "$SCRIPT_PATH/social-widgets/github.html"
 
     Write-Host
     Write-Host "MESSAGE: $PROJ_NAME processing completed."

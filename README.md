@@ -1,4 +1,4 @@
-<h1> <img style='height: 75px;' src='https://modules.codemelted.com/gh-page-nav/icons/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='https://modules.codemelted.com/gh-page-nav/icons/icons8-envelope-40.png' /></a> </h1>
+<h1> <img style='height: 75px;' src='https://dev.codemelted.com/gh-page-nav/icons/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img src='https://dev.codemelted.com/gh-page-nav/icons/icons8-envelope-40.png' /></a> </h1>
 
 Full stack software engineer specializing in cross-platform application development. Development experiences include working with communication wide area network (WAN) architectures, communication with external devices via network and serial comm, desktop applications with cross platform UI/UX requirements, and dedicated custom server services.  With this experience also comes the ability to fully document the software lifecycle from requirements / design, test plans, test cases, and end user documentation.
 
@@ -18,7 +18,6 @@ Full stack software engineer specializing in cross-platform application developm
 <p><a href="https://github.com/CodeMelted/xplat-modules"><img style="width: 300px;" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeMelted&amp;repo=xplat-modules&amp;theme=dracula" alt="ReadMe Card"></a></p>
 <p><img style="width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&amp;layout=compact&amp;theme=dracula&amp;hide=HTML,CSS" alt="Top Langs"></p>
 <p>Many thanks to <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>.  He is the creator of the API that produces the cards.</p>
-
 
 ## INDUSTRY EXPERIENCE
 
