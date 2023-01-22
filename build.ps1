@@ -42,7 +42,7 @@ function build {
 
     $mdFile = ConvertFrom-Markdown -Path "$SCRIPT_PATH/README.md"
     $htmlData = $HTML_TEMPLATE.Replace("CONTENT", $mdFile.Html)
-    $HtmlData | Out-File -Encoding utf8 "$SCRIPT_PATH/social-widgets/github.html"
+    $HtmlData | Out-File -Encoding utf8 "$SCRIPT_PATH/github.html"
 
     Write-Host
     Write-Host "MESSAGE: $PROJ_NAME processing completed."
