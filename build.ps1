@@ -26,8 +26,8 @@
 [string]$HTML_TEMPLATE = @'
 <style>
     @import url("https://codemelted.dev/website-nav/css/hacker-theme.css");
-</style><div class="content-main">
-<a class="github-button" href="https://github.com/codemelted" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @codemelted on GitHub">Follow @codemelted</a>
+</style><div class="content-main"><br />
+<a class="github-button" href="https://github.com/codemelted" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @codemelted on GitHub">Follow @codemelted</a><br /><br />
 CONTENT
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 </div>
