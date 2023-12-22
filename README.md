@@ -1,5 +1,5 @@
 <center>
-  <a href="https://codemelted.github.io" target="_self"><img style="width: 100%; max-width: 500px;" src="assets/images/banner.png" /></a>
+  <a href="https://codemelted.github.io" target="_self"><img style="width: 100%; max-width: 500px;" src="https://codemelted.github.io/assets/images/banner.png" /></a>
 </center>
 <br />
 <h1> <img style='height: 75px;' src='assets/images/me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img style="height: 50px;" src='assets/images/envelope.png' /></a> </h1>
