@@ -16,7 +16,6 @@ Full stack software engineer specializing in cross-platform application developm
 
 <h2> Table of Contents </h2>
 
-- [GITHUB WORK](#github-work)
 - [INDUSTRY EXPERIENCE](#industry-experience)
   - [Technologies](#technologies)
   - [Projects](#projects)
@@ -24,11 +23,6 @@ Full stack software engineer specializing in cross-platform application developm
 - [EDUCATION](#education)
   - [College](#college)
   - [Formal Training](#formal-training)
-
-## GITHUB WORK
-
-<p><img style="width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMelted&amp;layout=compact&amp;theme=dracula&amp;hide=HTML,CSS" alt="Top Langs"></p>
-<p>Many thanks to <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>.  He is the creator of the API that produces the cards.</p>
 
 ## INDUSTRY EXPERIENCE
 
