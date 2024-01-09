@@ -1,5 +1,5 @@
 <center>
-  <img style="width: 100%; max-width: 500px;" src="https://developer.codemelted.com/assets/images/logos/developer-non-banner.png" />
+  <img style="width: 300px;" src="header.png" />
 </center>
 
 <h1> <img style='height: 75px;' src='me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img style="height: 50px;" src='envelope.png' /></a> </h1>
