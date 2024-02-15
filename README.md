@@ -1,7 +1,3 @@
-<center>
-  <img style="width: 300px;" src="header.png" />
-</center>
-
 <h1> <img style='height: 75px;' src='me.jpg' /> Mark Shaffer (MSCS) <a href="mailto:mark.shaffer@codemelted.com"><img style="height: 50px;" src='envelope.png' /></a> </h1>
 
 Full stack software engineer specializing in cross-platform application development. Development experiences include working with communication wide area network (WAN) architectures, communication with external devices via network and serial comm, desktop applications with cross platform UI/UX requirements, mobile applications, and dedicated custom server services.  With this experience also comes the ability to fully document the software lifecycle from requirements / design, test plans, test cases, and end user documentation.
