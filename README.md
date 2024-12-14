@@ -37,9 +37,13 @@ Software Engineers are now required to learn multiple languages, technologies, a
 
 <img src="https://codemelted.com/assets/images/img-about-pwa-desktop.png" height="350px">
 
+When the PWA is installed, the user will have a Single Page Application (SPA) with a end drawer with other accessible tools. Upon opening it, the user can either open the app within the current SPA window, or select to open the external site as its own app window.
+
 ### Mobile
 
 <img src="https://codemelted.com/assets/images/img-about-pwa-mobile.png" height="350px">
+
+When the PWA is installed on mobile, it will provide a fully integrated app experience. If called from another app, it will be opened as such. If opening one of the linked apps, if installed, that native app will open. If not, then a SPA window will open the external app website.
 
 # Socials
 
@@ -58,6 +62,8 @@ Where I will post daily thoughts, learnings, and content (i.e. articles, photogr
 - <a href="https://youtube.com/@codemelted"><img src="https://codemelted.com/assets/images/icon-youtube.png" height="35px" /> YouTube</a>: Where the CodeMelted podcast and videos are hosted.
 
 ## Support
+
+This project does not want to utilize ads on the different websites. To that end, any support for the two hosted projects and the delivery of content is greatly appreciated.
 
 - <a href="https://www.buymeacoffee.com/codemelted"><img src="https://codemelted.com/assets/images/icon-buy-me-a-coffee.png" height="35px" /> Buy Me A Coffee</a>: Direct support for the CodeMelted PWA content and other services not directly related to the CodeMelted DEV project.
 - <a href="https://github.com/sponsors/CodeMelted"><img src="https://codemelted.com/assets/images/icon-github.png" height="35px" /> GitHub Sponsorship</a>: Direct support for the CodeMelted DEV project either through a one time donation or a monthly subscription.
