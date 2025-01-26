@@ -26,8 +26,7 @@ Software Engineers are now required to learn multiple languages, technologies, a
 
 **Sites:**
 
-- <a href="https://github.com/CodeMelted/codemelted_developer"><img src="https://codemelted.com/assets/images/icon-github.png" height="35px" /> GitHub Page</a>: Hosts the CodeMelted DEV | Cross Platform Modules project. This is actively developed to provide software engineers the ability to deploy PWAs.
-- <a href="https://developer.codemelted.com"><img src="https://codemelted.com/assets/images/icon-code.png" height="35px" /> Developer Site</a>: Sub-domain of the `codemelted.com` that is developer focused for the CodeMelted DEV Cross Platform Modules project.
+- <a href="https://github.com/CodeMelted/codemelted_developer"><img src="https://codemelted.com/assets/images/icon-github.png" height="35px" /> GitHub Page</a>: Hosts the CodeMelted DEV | Modules project. This is actively developed to provide software engineers the ability to deploy PWAs.
 
 ## CodeMelted PWA
 
@@ -58,7 +57,6 @@ Where I will post daily thoughts, learnings, and content (i.e. articles, photogr
 
 ## Podcast / Videos
 
-- <a href="https://media.codemelted.com"><img src="https://codemelted.com/assets/images/icon-media.png" height="35px" /> Media Website</a>: Sub-domain to the `codemelted.com` site providing a media focus to my photography, podcast, and videos.
 - <a href="https://youtube.com/@codemelted"><img src="https://codemelted.com/assets/images/icon-youtube.png" height="35px" /> YouTube</a>: Where the CodeMelted podcast and videos are hosted.
 
 ## Support
