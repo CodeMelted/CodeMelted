@@ -13,11 +13,11 @@
 
 # Projects
 
-The **[codemelted.rs](https://github.com/codemelted/codemelted.rs)** project aims to deliver a fullstack swiss army knife module to software engineers to facilitate easily building fullstack solutions. Utilizing the Rust programming language, the module serves as a backbone to engineer solutions for multiple build targets. This is accomplished by implementing 14 domain specific use cases for the most common problems software engineers face.
+The **[codemelted.rs](https://github.com/codemelted/codemelted.rs)** project aims to deliver a full stack Swiss Army Knife module for software engineers to facilitate easily building solutions. Utilizing the Rust programming language, the module serves as a backbone to engineer solutions for multiple build targets. This is accomplished by implementing 14 domain specific use cases for the most common problems software engineers face.
 
 [![Mark Shaffer's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=codemelted&hide=html,css,shell,batchfile,typescript&theme=algolia&show_icons=true)](https://github.com/codemelted)
 
-The fullstack swiss army knife approach will support building solutions within the following areas further discussed below.
+The full stack Swiss Army Knife approach will support building solutions within the following areas further discussed below.
 
 ## Consumable Crate
 
