@@ -10,9 +10,14 @@
 
 # codemelted.rs Consumable Crate
 
-<img style="width: 400px; padding-right: 25px;" src="https://codemelted.com/developer/mdbook/models/use-case-model.drawio.png" align="left" />
-
-The **[codemelted.rs](https://rs.codemelted.com)** project aims to deliver a full stack Swiss Army Knife module for software engineers to easily build software solutions. Utilizing the Rust programming language, the module serves as a backbone to engineer solutions for multiple build targets. This is accomplished by implementing 14 domain specific use cases for the most common problems software engineers face. This can be from as low-level as a Raspberry Pi to dedicated server services. With the code written in Rust, you gets the speed of C but without the memory safety headaches.
+<table>
+<tr>
+<td style="width: 325px;"><img src="https://codemelted.com/developer/mdbook/models/use-case-model.drawio.png" /></td>
+<td>
+The <code>codemelted.rs project</code> aims to deliver a full stack Swiss Army Knife module for software engineers to easily build software solutions. Utilizing the Rust programming language, the module serves as a backbone to engineer solutions for multiple build targets. This is accomplished by implementing 14 domain specific use cases for the most common problems software engineers face. This can be from as low-level as a Raspberry Pi to dedicated server services. With the code written in Rust, you gets the speed of C but without the memory safety headaches.
+</td>
+</tr>
+</table>
 
 **Application Development**
 
@@ -30,7 +35,7 @@ WEB     | With the `codemelted.rs` module, the `codemelted.js` rust binding, and
 
 <table>
 <tr>
-<td style="width: 275px;"><img style="width: 275px;" src="https://codemelted.com/developer/mdbook/models/cli-model.drawio.png" /></td>
+<td style="width: 285px;"><img src="https://codemelted.com/developer/mdbook/models/cli-model.drawio.png" /></td>
 <td>
 <ul>
 <li>The CLI is the main interface for operating system terminals.</li>
