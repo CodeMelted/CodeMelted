@@ -4,22 +4,15 @@
 
 **Table of Contents**
 
-- [Projects](#projects)
-  - [Consumable Crate](#consumable-crate)
-  - [Command Line Interface (CLI)](#command-line-interface-cli)
+- [codemelted.rs Consumable Crate](#codemeltedrs-consumable-crate)
+- [codemelted CLI](#codemelted-cli)
 - [Support](#support)
 
-# Projects
+# codemelted.rs Consumable Crate
 
 <img style="width: 400px; padding-right: 25px;" src="https://codemelted.com/developer/mdbook/models/use-case-model.drawio.png" align="left" />
 
-The **[codemelted.rs](https://rs.codemelted.com)** project aims to deliver a full stack Swiss Army Knife module for software engineers to easily build software solutions. Utilizing the Rust programming language, the module serves as a backbone to engineer solutions for multiple build targets. This is accomplished by implementing 14 domain specific use cases for the most common problems software engineers face.
-
-<br /><br /><br /><br />
-
-## Consumable Crate
-
-The [codemelted crate](https://crates.io/crates/codemelted) provides the ability to write native applications utilizing the 14 domain use cases. This can be from as low-level as a Raspberry Pi to dedicated server services. With the code written in Rust, you gets the speed of C but without the memory safety headaches.
+The **[codemelted.rs](https://rs.codemelted.com)** project aims to deliver a full stack Swiss Army Knife module for software engineers to easily build software solutions. Utilizing the Rust programming language, the module serves as a backbone to engineer solutions for multiple build targets. This is accomplished by implementing 14 domain specific use cases for the most common problems software engineers face. This can be from as low-level as a Raspberry Pi to dedicated server services. With the code written in Rust, you gets the speed of C but without the memory safety headaches.
 
 **Application Development**
 
@@ -33,13 +26,22 @@ SERVICE | Utilize the `codemelted.rs` module via the crate to build a operating 
 TUI     | With the assistance of the `codemelted-cli` pwsh Core module, you can quickly build TUI application within a pwsh terminal environment. Or simply utilize the `codemelted.rs` module via the crate and utilize a number of Rust based TUI frameworks.
 WEB     | With the `codemelted.rs` module, the `codemelted.js` rust binding, and the power of WASM, easily build rust based web applications to run via a web browser or within a supported V8 JavaScript runtime engine.
 
-## Command Line Interface (CLI)
+# codemelted CLI
 
-<center><img style="padding-right: 25px; height: 250px" src="https://codemelted.com/developer/mdbook/models/cli-model.drawio.png" align="left" /></center>
-
-The [codemelted Crate](https://rs.codemelted.com) will also provide an installable `codemelted` native CLI command. This command will help in building terminal scripted solutions within a given terminal scripting environment.
-
-In addition, a wrapper for the `codemelted` native command will come in the form of the `codemelted-cli` command. This will be a PowerShell Core module that wraps the `codemelted` native command but builds upon it utilizing the .NET core environment. This aids in building DevOps / cloud solutions regardless of the scripting terminal environment.
+<table>
+<tr>
+<td style="width: 275px;"><img style="width: 275px;" src="https://codemelted.com/developer/mdbook/models/cli-model.drawio.png" /></td>
+<td>
+<ul>
+<li>The CLI is the main interface for operating system terminals.</li>
+<li>The <code>codemelted</code> command provides a native CLI command available on any operating system that supports a Rust compiler.</li>
+<li>The <code>codemelted</code> command provides will provide common actions between operating systems along with specific toolchains associated with the <code>codemelted.rs</code> project.</li>
+<li>The <code>codemelted-cli</code> pwsh Core module is a specialized set of CLI bindings building on top of the <code>codemelted</code> native command but providing the power of PowerShell command / scripting concepts.</li>
+<li>Scripting utilizing the <code>codemelted</code> / <code>codemelted-cli</code> environment provide a powerful DevOps toolchain set of automation.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 # Support
 
